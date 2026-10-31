@@ -1266,6 +1266,8 @@
         "framework": ".NETCoreApp,Version=v10.0",
         "dependencies": {
           "Foliora.Application": "1.0.0",
+          "Microsoft.Extensions.Configuration.EnvironmentVariables": "9.0.2",
+          "Microsoft.Extensions.Configuration.FileExtensions": "9.0.2",
           "Npgsql.EntityFrameworkCore.PostgreSQL": "9.0.3"
         },
         "compile": {
