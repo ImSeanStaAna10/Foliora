@@ -1,0 +1,223 @@
+{
+  "main": {
+    "id": "a7f1890d0ad4fd77",
+    "type": "split",
+    "children": [
+      {
+        "id": "9a4af52bec2a2b6d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2a3a26dcb6244bc7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02 Architecture/Engineering Principles.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Engineering Principles"
+            }
+          },
+          {
+            "id": "e1f93fae25b9885b",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "8b96fdc523cf2ebb",
+    "type": "split",
+    "children": [
+      {
+        "id": "fa505caefb188645",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "22ad336847503243",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "cfe9255fd9efecde",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "00c0ee0cb02a2400",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "093ebad5efde32de",
+    "type": "split",
+    "children": [
+      {
+        "id": "0e7d1860c841e52d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0b6add3b0369cbac",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "CareerVault-Obsidian/CareerVault-Obsidian/03 Database/Database Architecture and ERD.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "c87f1e19216fd0ae",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "CareerVault-Obsidian/CareerVault-Obsidian/03 Database/Database Architecture and ERD.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "c3f48a876a000904",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "62b7a460e9b49258",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "f913568234a6e2f2",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "CareerVault-Obsidian/CareerVault-Obsidian/03 Database/Database Architecture and ERD.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "e1f93fae25b9885b",
+  "lastOpenFiles": [
+    "01 Planning/Roadmap.md",
+    "11 CI-CD-REFACTOR-TASK.md",
+    "02 Architecture/Engineering Principles.md",
+    "02 Architecture/ADR-Modular-Monolith.md",
+    "00 Home/Product Requirements.md",
+    "00 Home/Importing Into Obsidian.md",
+    "02 Architecture/ADR-Authentication-and-Google-OIDC.md",
+    "CareerVault-Obsidian/CareerVault-Obsidian/03 Database/Data Dictionary.md",
+    "CareerVault-Obsidian/CareerVault-Obsidian/02 Architecture/ADR-Supabase-PostgreSQL.md",
+    "CareerVault-Obsidian/CareerVault-Obsidian/02 Architecture/ADR-Supabase-Optional-Services.md",
+    "CareerVault-Obsidian/CareerVault-Obsidian/02 Architecture/ADR-Block-Based-Builder.md",
+    "CareerVault-Obsidian/CareerVault-Obsidian/02 Architecture/ADR-Authentication-and-Google-OIDC.md",
+    "CareerVault-Obsidian/CareerVault-Obsidian/01 Planning/User Stories and Acceptance Criteria.md",
+    "CareerVault-Obsidian/CareerVault-Obsidian/01 Planning/Roadmap.md",
+    "CareerVault-Obsidian/CareerVault-Obsidian/01 Planning/MVP Scope.md",
+    "CareerVault-Obsidian/CareerVault-Obsidian/00 Home/README.md",
+    "CareerVault-Obsidian/CareerVault-Obsidian/00 Home/Product Vision.md",
+    "CareerVault-Obsidian/CareerVault-Obsidian/00 Home/Importing Into Obsidian.md"
+  ]
+}

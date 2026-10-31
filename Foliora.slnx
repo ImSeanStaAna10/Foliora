@@ -1,0 +1,14 @@
+<Solution>
+  <Folder Name="/backend/" />
+  <Folder Name="/backend/src/">
+    <Project Path="backend/src/Foliora.Api/Foliora.Api.csproj" />
+    <Project Path="backend/src/Foliora.Application/Foliora.Application.csproj" />
+    <Project Path="backend/src/Foliora.Domain/Foliora.Domain.csproj" />
+    <Project Path="backend/src/Foliora.Infrastructure/Foliora.Infrastructure.csproj" />
+    <Project Path="backend/src/Foliora.Worker/Foliora.Worker.csproj" />
+  </Folder>
+  <Folder Name="/backend/tests/">
+    <Project Path="backend/tests/Foliora.IntegrationTests/Foliora.IntegrationTests.csproj" />
+    <Project Path="backend/tests/Foliora.UnitTests/Foliora.UnitTests.csproj" />
+  </Folder>
+</Solution>
