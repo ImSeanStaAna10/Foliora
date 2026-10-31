@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Foliora.Worker")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+75023219ea99610da200a397543b99bb1c30fe6e")]
 [assembly: System.Reflection.AssemblyProductAttribute("Foliora.Worker")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Foliora.Worker")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -1,13 +1,30 @@
 {
   "version": 2,
-  "dgSpecHash": "93F8W8BydkI=",
+  "dgSpecHash": "KoTSMCdQr+8=",
   "success": true,
   "projectFilePath": "C:\\Sean Sta Ana\\PersonalProject\\Foliora\\backend\\tests\\Foliora.IntegrationTests\\Foliora.IntegrationTests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Lenovo\\.nuget\\packages\\coverlet.collector\\6.0.4\\coverlet.collector.6.0.4.nupkg.sha512",
+    "C:\\Users\\Lenovo\\.nuget\\packages\\microsoft.aspnetcore.authentication\\2.3.0\\microsoft.aspnetcore.authentication.2.3.0.nupkg.sha512",
+    "C:\\Users\\Lenovo\\.nuget\\packages\\microsoft.aspnetcore.authentication.abstractions\\2.3.0\\microsoft.aspnetcore.authentication.abstractions.2.3.0.nupkg.sha512",
+    "C:\\Users\\Lenovo\\.nuget\\packages\\microsoft.aspnetcore.authentication.cookies\\2.3.0\\microsoft.aspnetcore.authentication.cookies.2.3.0.nupkg.sha512",
+    "C:\\Users\\Lenovo\\.nuget\\packages\\microsoft.aspnetcore.authentication.core\\2.3.0\\microsoft.aspnetcore.authentication.core.2.3.0.nupkg.sha512",
+    "C:\\Users\\Lenovo\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\9.0.2\\microsoft.aspnetcore.authentication.jwtbearer.9.0.2.nupkg.sha512",
+    "C:\\Users\\Lenovo\\.nuget\\packages\\microsoft.aspnetcore.cryptography.internal\\2.3.0\\microsoft.aspnetcore.cryptography.internal.2.3.0.nupkg.sha512",
+    "C:\\Users\\Lenovo\\.nuget\\packages\\microsoft.aspnetcore.cryptography.keyderivation\\2.3.0\\microsoft.aspnetcore.cryptography.keyderivation.2.3.0.nupkg.sha512",
+    "C:\\Users\\Lenovo\\.nuget\\packages\\microsoft.aspnetcore.dataprotection\\2.3.0\\microsoft.aspnetcore.dataprotection.2.3.0.nupkg.sha512",
+    "C:\\Users\\Lenovo\\.nuget\\packages\\microsoft.aspnetcore.dataprotection.abstractions\\2.3.0\\microsoft.aspnetcore.dataprotection.abstractions.2.3.0.nupkg.sha512",
+    "C:\\Users\\Lenovo\\.nuget\\packages\\microsoft.aspnetcore.hosting.abstractions\\2.3.0\\microsoft.aspnetcore.hosting.abstractions.2.3.0.nupkg.sha512",
+    "C:\\Users\\Lenovo\\.nuget\\packages\\microsoft.aspnetcore.hosting.server.abstractions\\2.3.0\\microsoft.aspnetcore.hosting.server.abstractions.2.3.0.nupkg.sha512",
+    "C:\\Users\\Lenovo\\.nuget\\packages\\microsoft.aspnetcore.http\\2.3.0\\microsoft.aspnetcore.http.2.3.0.nupkg.sha512",
+    "C:\\Users\\Lenovo\\.nuget\\packages\\microsoft.aspnetcore.http.abstractions\\2.3.0\\microsoft.aspnetcore.http.abstractions.2.3.0.nupkg.sha512",
+    "C:\\Users\\Lenovo\\.nuget\\packages\\microsoft.aspnetcore.http.extensions\\2.3.0\\microsoft.aspnetcore.http.extensions.2.3.0.nupkg.sha512",
+    "C:\\Users\\Lenovo\\.nuget\\packages\\microsoft.aspnetcore.http.features\\2.3.0\\microsoft.aspnetcore.http.features.2.3.0.nupkg.sha512",
+    "C:\\Users\\Lenovo\\.nuget\\packages\\microsoft.aspnetcore.identity\\2.3.0\\microsoft.aspnetcore.identity.2.3.0.nupkg.sha512",
     "C:\\Users\\Lenovo\\.nuget\\packages\\microsoft.aspnetcore.mvc.testing\\9.0.2\\microsoft.aspnetcore.mvc.testing.9.0.2.nupkg.sha512",
     "C:\\Users\\Lenovo\\.nuget\\packages\\microsoft.aspnetcore.openapi\\9.0.2\\microsoft.aspnetcore.openapi.9.0.2.nupkg.sha512",
     "C:\\Users\\Lenovo\\.nuget\\packages\\microsoft.aspnetcore.testhost\\9.0.2\\microsoft.aspnetcore.testhost.9.0.2.nupkg.sha512",
+    "C:\\Users\\Lenovo\\.nuget\\packages\\microsoft.aspnetcore.webutilities\\2.3.0\\microsoft.aspnetcore.webutilities.2.3.0.nupkg.sha512",
     "C:\\Users\\Lenovo\\.nuget\\packages\\microsoft.codecoverage\\17.14.1\\microsoft.codecoverage.17.14.1.nupkg.sha512",
     "C:\\Users\\Lenovo\\.nuget\\packages\\microsoft.entityframeworkcore\\9.0.1\\microsoft.entityframeworkcore.9.0.1.nupkg.sha512",
     "C:\\Users\\Lenovo\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\9.0.1\\microsoft.entityframeworkcore.abstractions.9.0.1.nupkg.sha512",
@@ -34,6 +51,7 @@
     "C:\\Users\\Lenovo\\.nuget\\packages\\microsoft.extensions.filesystemglobbing\\9.0.2\\microsoft.extensions.filesystemglobbing.9.0.2.nupkg.sha512",
     "C:\\Users\\Lenovo\\.nuget\\packages\\microsoft.extensions.hosting\\9.0.2\\microsoft.extensions.hosting.9.0.2.nupkg.sha512",
     "C:\\Users\\Lenovo\\.nuget\\packages\\microsoft.extensions.hosting.abstractions\\9.0.2\\microsoft.extensions.hosting.abstractions.9.0.2.nupkg.sha512",
+    "C:\\Users\\Lenovo\\.nuget\\packages\\microsoft.extensions.identity.core\\2.3.0\\microsoft.extensions.identity.core.2.3.0.nupkg.sha512",
     "C:\\Users\\Lenovo\\.nuget\\packages\\microsoft.extensions.logging\\9.0.2\\microsoft.extensions.logging.9.0.2.nupkg.sha512",
     "C:\\Users\\Lenovo\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\9.0.2\\microsoft.extensions.logging.abstractions.9.0.2.nupkg.sha512",
     "C:\\Users\\Lenovo\\.nuget\\packages\\microsoft.extensions.logging.configuration\\9.0.2\\microsoft.extensions.logging.configuration.9.0.2.nupkg.sha512",
@@ -41,9 +59,18 @@
     "C:\\Users\\Lenovo\\.nuget\\packages\\microsoft.extensions.logging.debug\\9.0.2\\microsoft.extensions.logging.debug.9.0.2.nupkg.sha512",
     "C:\\Users\\Lenovo\\.nuget\\packages\\microsoft.extensions.logging.eventlog\\9.0.2\\microsoft.extensions.logging.eventlog.9.0.2.nupkg.sha512",
     "C:\\Users\\Lenovo\\.nuget\\packages\\microsoft.extensions.logging.eventsource\\9.0.2\\microsoft.extensions.logging.eventsource.9.0.2.nupkg.sha512",
+    "C:\\Users\\Lenovo\\.nuget\\packages\\microsoft.extensions.objectpool\\8.0.11\\microsoft.extensions.objectpool.8.0.11.nupkg.sha512",
     "C:\\Users\\Lenovo\\.nuget\\packages\\microsoft.extensions.options\\9.0.2\\microsoft.extensions.options.9.0.2.nupkg.sha512",
     "C:\\Users\\Lenovo\\.nuget\\packages\\microsoft.extensions.options.configurationextensions\\9.0.2\\microsoft.extensions.options.configurationextensions.9.0.2.nupkg.sha512",
     "C:\\Users\\Lenovo\\.nuget\\packages\\microsoft.extensions.primitives\\9.0.2\\microsoft.extensions.primitives.9.0.2.nupkg.sha512",
+    "C:\\Users\\Lenovo\\.nuget\\packages\\microsoft.extensions.webencoders\\8.0.11\\microsoft.extensions.webencoders.8.0.11.nupkg.sha512",
+    "C:\\Users\\Lenovo\\.nuget\\packages\\microsoft.identitymodel.abstractions\\8.4.0\\microsoft.identitymodel.abstractions.8.4.0.nupkg.sha512",
+    "C:\\Users\\Lenovo\\.nuget\\packages\\microsoft.identitymodel.jsonwebtokens\\8.4.0\\microsoft.identitymodel.jsonwebtokens.8.4.0.nupkg.sha512",
+    "C:\\Users\\Lenovo\\.nuget\\packages\\microsoft.identitymodel.logging\\8.4.0\\microsoft.identitymodel.logging.8.4.0.nupkg.sha512",
+    "C:\\Users\\Lenovo\\.nuget\\packages\\microsoft.identitymodel.protocols\\8.0.1\\microsoft.identitymodel.protocols.8.0.1.nupkg.sha512",
+    "C:\\Users\\Lenovo\\.nuget\\packages\\microsoft.identitymodel.protocols.openidconnect\\8.0.1\\microsoft.identitymodel.protocols.openidconnect.8.0.1.nupkg.sha512",
+    "C:\\Users\\Lenovo\\.nuget\\packages\\microsoft.identitymodel.tokens\\8.4.0\\microsoft.identitymodel.tokens.8.4.0.nupkg.sha512",
+    "C:\\Users\\Lenovo\\.nuget\\packages\\microsoft.net.http.headers\\2.3.0\\microsoft.net.http.headers.2.3.0.nupkg.sha512",
     "C:\\Users\\Lenovo\\.nuget\\packages\\microsoft.net.test.sdk\\17.14.1\\microsoft.net.test.sdk.17.14.1.nupkg.sha512",
     "C:\\Users\\Lenovo\\.nuget\\packages\\microsoft.openapi\\1.6.22\\microsoft.openapi.1.6.22.nupkg.sha512",
     "C:\\Users\\Lenovo\\.nuget\\packages\\microsoft.testplatform.objectmodel\\17.14.1\\microsoft.testplatform.objectmodel.17.14.1.nupkg.sha512",
@@ -55,7 +82,11 @@
     "C:\\Users\\Lenovo\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\7.2.0\\swashbuckle.aspnetcore.swagger.7.2.0.nupkg.sha512",
     "C:\\Users\\Lenovo\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\7.2.0\\swashbuckle.aspnetcore.swaggergen.7.2.0.nupkg.sha512",
     "C:\\Users\\Lenovo\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\7.2.0\\swashbuckle.aspnetcore.swaggerui.7.2.0.nupkg.sha512",
+    "C:\\Users\\Lenovo\\.nuget\\packages\\system.componentmodel.annotations\\5.0.0\\system.componentmodel.annotations.5.0.0.nupkg.sha512",
     "C:\\Users\\Lenovo\\.nuget\\packages\\system.diagnostics.eventlog\\9.0.2\\system.diagnostics.eventlog.9.0.2.nupkg.sha512",
+    "C:\\Users\\Lenovo\\.nuget\\packages\\system.identitymodel.tokens.jwt\\8.4.0\\system.identitymodel.tokens.jwt.8.4.0.nupkg.sha512",
+    "C:\\Users\\Lenovo\\.nuget\\packages\\system.security.cryptography.pkcs\\8.0.1\\system.security.cryptography.pkcs.8.0.1.nupkg.sha512",
+    "C:\\Users\\Lenovo\\.nuget\\packages\\system.security.cryptography.xml\\8.0.2\\system.security.cryptography.xml.8.0.2.nupkg.sha512",
     "C:\\Users\\Lenovo\\.nuget\\packages\\xunit\\2.9.3\\xunit.2.9.3.nupkg.sha512",
     "C:\\Users\\Lenovo\\.nuget\\packages\\xunit.abstractions\\2.0.3\\xunit.abstractions.2.0.3.nupkg.sha512",
     "C:\\Users\\Lenovo\\.nuget\\packages\\xunit.analyzers\\1.18.0\\xunit.analyzers.1.18.0.nupkg.sha512",
@@ -65,5 +96,186 @@
     "C:\\Users\\Lenovo\\.nuget\\packages\\xunit.extensibility.execution\\2.9.3\\xunit.extensibility.execution.2.9.3.nupkg.sha512",
     "C:\\Users\\Lenovo\\.nuget\\packages\\xunit.runner.visualstudio\\3.1.4\\xunit.runner.visualstudio.3.1.4.nupkg.sha512"
   ],
-  "logs": []
+  "logs": [
+    {
+      "code": "NU1903",
+      "level": "Warning",
+      "message": "Package 'Microsoft.AspNetCore.Identity' 2.3.0 has a known high severity vulnerability, https://github.com/advisories/GHSA-2865-hh9g-w894",
+      "projectPath": "C:\\Sean Sta Ana\\PersonalProject\\Foliora\\backend\\tests\\Foliora.IntegrationTests\\Foliora.IntegrationTests.csproj",
+      "warningLevel": 1,
+      "filePath": "C:\\Sean Sta Ana\\PersonalProject\\Foliora\\backend\\tests\\Foliora.IntegrationTests\\Foliora.IntegrationTests.csproj",
+      "libraryId": "Microsoft.AspNetCore.Identity",
+      "targetGraphs": [
+        "net10.0"
+      ]
+    },
+    {
+      "code": "NU1902",
+      "level": "Warning",
+      "message": "Package 'System.Security.Cryptography.Pkcs' 8.0.1 has a known moderate severity vulnerability, https://github.com/advisories/GHSA-2fmv-rv2c-59x7",
+      "projectPath": "C:\\Sean Sta Ana\\PersonalProject\\Foliora\\backend\\tests\\Foliora.IntegrationTests\\Foliora.IntegrationTests.csproj",
+      "warningLevel": 1,
+      "filePath": "C:\\Sean Sta Ana\\PersonalProject\\Foliora\\backend\\tests\\Foliora.IntegrationTests\\Foliora.IntegrationTests.csproj",
+      "libraryId": "System.Security.Cryptography.Pkcs",
+      "targetGraphs": [
+        "net10.0"
+      ]
+    },
+    {
+      "code": "NU1903",
+      "level": "Warning",
+      "message": "Package 'System.Security.Cryptography.Pkcs' 8.0.1 has a known high severity vulnerability, https://github.com/advisories/GHSA-846f-f764-76mx",
+      "projectPath": "C:\\Sean Sta Ana\\PersonalProject\\Foliora\\backend\\tests\\Foliora.IntegrationTests\\Foliora.IntegrationTests.csproj",
+      "warningLevel": 1,
+      "filePath": "C:\\Sean Sta Ana\\PersonalProject\\Foliora\\backend\\tests\\Foliora.IntegrationTests\\Foliora.IntegrationTests.csproj",
+      "libraryId": "System.Security.Cryptography.Pkcs",
+      "targetGraphs": [
+        "net10.0"
+      ]
+    },
+    {
+      "code": "NU1903",
+      "level": "Warning",
+      "message": "Package 'System.Security.Cryptography.Xml' 8.0.2 has a known high severity vulnerability, https://github.com/advisories/GHSA-23rf-6693-g89p",
+      "projectPath": "C:\\Sean Sta Ana\\PersonalProject\\Foliora\\backend\\tests\\Foliora.IntegrationTests\\Foliora.IntegrationTests.csproj",
+      "warningLevel": 1,
+      "filePath": "C:\\Sean Sta Ana\\PersonalProject\\Foliora\\backend\\tests\\Foliora.IntegrationTests\\Foliora.IntegrationTests.csproj",
+      "libraryId": "System.Security.Cryptography.Xml",
+      "targetGraphs": [
+        "net10.0"
+      ]
+    },
+    {
+      "code": "NU1903",
+      "level": "Warning",
+      "message": "Package 'System.Security.Cryptography.Xml' 8.0.2 has a known high severity vulnerability, https://github.com/advisories/GHSA-37gx-xxp4-5rgx",
+      "projectPath": "C:\\Sean Sta Ana\\PersonalProject\\Foliora\\backend\\tests\\Foliora.IntegrationTests\\Foliora.IntegrationTests.csproj",
+      "warningLevel": 1,
+      "filePath": "C:\\Sean Sta Ana\\PersonalProject\\Foliora\\backend\\tests\\Foliora.IntegrationTests\\Foliora.IntegrationTests.csproj",
+      "libraryId": "System.Security.Cryptography.Xml",
+      "targetGraphs": [
+        "net10.0"
+      ]
+    },
+    {
+      "code": "NU1903",
+      "level": "Warning",
+      "message": "Package 'System.Security.Cryptography.Xml' 8.0.2 has a known high severity vulnerability, https://github.com/advisories/GHSA-6588-8gv4-xfgh",
+      "projectPath": "C:\\Sean Sta Ana\\PersonalProject\\Foliora\\backend\\tests\\Foliora.IntegrationTests\\Foliora.IntegrationTests.csproj",
+      "warningLevel": 1,
+      "filePath": "C:\\Sean Sta Ana\\PersonalProject\\Foliora\\backend\\tests\\Foliora.IntegrationTests\\Foliora.IntegrationTests.csproj",
+      "libraryId": "System.Security.Cryptography.Xml",
+      "targetGraphs": [
+        "net10.0"
+      ]
+    },
+    {
+      "code": "NU1903",
+      "level": "Warning",
+      "message": "Package 'System.Security.Cryptography.Xml' 8.0.2 has a known high severity vulnerability, https://github.com/advisories/GHSA-7hqp-7c5m-4vq6",
+      "projectPath": "C:\\Sean Sta Ana\\PersonalProject\\Foliora\\backend\\tests\\Foliora.IntegrationTests\\Foliora.IntegrationTests.csproj",
+      "warningLevel": 1,
+      "filePath": "C:\\Sean Sta Ana\\PersonalProject\\Foliora\\backend\\tests\\Foliora.IntegrationTests\\Foliora.IntegrationTests.csproj",
+      "libraryId": "System.Security.Cryptography.Xml",
+      "targetGraphs": [
+        "net10.0"
+      ]
+    },
+    {
+      "code": "NU1903",
+      "level": "Warning",
+      "message": "Package 'System.Security.Cryptography.Xml' 8.0.2 has a known high severity vulnerability, https://github.com/advisories/GHSA-8q5v-6pqq-x66h",
+      "projectPath": "C:\\Sean Sta Ana\\PersonalProject\\Foliora\\backend\\tests\\Foliora.IntegrationTests\\Foliora.IntegrationTests.csproj",
+      "warningLevel": 1,
+      "filePath": "C:\\Sean Sta Ana\\PersonalProject\\Foliora\\backend\\tests\\Foliora.IntegrationTests\\Foliora.IntegrationTests.csproj",
+      "libraryId": "System.Security.Cryptography.Xml",
+      "targetGraphs": [
+        "net10.0"
+      ]
+    },
+    {
+      "code": "NU1903",
+      "level": "Warning",
+      "message": "Package 'System.Security.Cryptography.Xml' 8.0.2 has a known high severity vulnerability, https://github.com/advisories/GHSA-c399-9853-6jmj",
+      "projectPath": "C:\\Sean Sta Ana\\PersonalProject\\Foliora\\backend\\tests\\Foliora.IntegrationTests\\Foliora.IntegrationTests.csproj",
+      "warningLevel": 1,
+      "filePath": "C:\\Sean Sta Ana\\PersonalProject\\Foliora\\backend\\tests\\Foliora.IntegrationTests\\Foliora.IntegrationTests.csproj",
+      "libraryId": "System.Security.Cryptography.Xml",
+      "targetGraphs": [
+        "net10.0"
+      ]
+    },
+    {
+      "code": "NU1903",
+      "level": "Warning",
+      "message": "Package 'System.Security.Cryptography.Xml' 8.0.2 has a known high severity vulnerability, https://github.com/advisories/GHSA-cvvh-rhrc-wg4q",
+      "projectPath": "C:\\Sean Sta Ana\\PersonalProject\\Foliora\\backend\\tests\\Foliora.IntegrationTests\\Foliora.IntegrationTests.csproj",
+      "warningLevel": 1,
+      "filePath": "C:\\Sean Sta Ana\\PersonalProject\\Foliora\\backend\\tests\\Foliora.IntegrationTests\\Foliora.IntegrationTests.csproj",
+      "libraryId": "System.Security.Cryptography.Xml",
+      "targetGraphs": [
+        "net10.0"
+      ]
+    },
+    {
+      "code": "NU1903",
+      "level": "Warning",
+      "message": "Package 'System.Security.Cryptography.Xml' 8.0.2 has a known high severity vulnerability, https://github.com/advisories/GHSA-g8r8-53c2-pm3f",
+      "projectPath": "C:\\Sean Sta Ana\\PersonalProject\\Foliora\\backend\\tests\\Foliora.IntegrationTests\\Foliora.IntegrationTests.csproj",
+      "warningLevel": 1,
+      "filePath": "C:\\Sean Sta Ana\\PersonalProject\\Foliora\\backend\\tests\\Foliora.IntegrationTests\\Foliora.IntegrationTests.csproj",
+      "libraryId": "System.Security.Cryptography.Xml",
+      "targetGraphs": [
+        "net10.0"
+      ]
+    },
+    {
+      "code": "NU1903",
+      "level": "Warning",
+      "message": "Package 'System.Security.Cryptography.Xml' 8.0.2 has a known high severity vulnerability, https://github.com/advisories/GHSA-mmjf-rqrv-855v",
+      "projectPath": "C:\\Sean Sta Ana\\PersonalProject\\Foliora\\backend\\tests\\Foliora.IntegrationTests\\Foliora.IntegrationTests.csproj",
+      "warningLevel": 1,
+      "filePath": "C:\\Sean Sta Ana\\PersonalProject\\Foliora\\backend\\tests\\Foliora.IntegrationTests\\Foliora.IntegrationTests.csproj",
+      "libraryId": "System.Security.Cryptography.Xml",
+      "targetGraphs": [
+        "net10.0"
+      ]
+    },
+    {
+      "code": "NU1903",
+      "level": "Warning",
+      "message": "Package 'System.Security.Cryptography.Xml' 8.0.2 has a known high severity vulnerability, https://github.com/advisories/GHSA-r955-8q5j-3h83",
+      "projectPath": "C:\\Sean Sta Ana\\PersonalProject\\Foliora\\backend\\tests\\Foliora.IntegrationTests\\Foliora.IntegrationTests.csproj",
+      "warningLevel": 1,
+      "filePath": "C:\\Sean Sta Ana\\PersonalProject\\Foliora\\backend\\tests\\Foliora.IntegrationTests\\Foliora.IntegrationTests.csproj",
+      "libraryId": "System.Security.Cryptography.Xml",
+      "targetGraphs": [
+        "net10.0"
+      ]
+    },
+    {
+      "code": "NU1903",
+      "level": "Warning",
+      "message": "Package 'System.Security.Cryptography.Xml' 8.0.2 has a known high severity vulnerability, https://github.com/advisories/GHSA-vrv5-2jg9-4mmr",
+      "projectPath": "C:\\Sean Sta Ana\\PersonalProject\\Foliora\\backend\\tests\\Foliora.IntegrationTests\\Foliora.IntegrationTests.csproj",
+      "warningLevel": 1,
+      "filePath": "C:\\Sean Sta Ana\\PersonalProject\\Foliora\\backend\\tests\\Foliora.IntegrationTests\\Foliora.IntegrationTests.csproj",
+      "libraryId": "System.Security.Cryptography.Xml",
+      "targetGraphs": [
+        "net10.0"
+      ]
+    },
+    {
+      "code": "NU1903",
+      "level": "Warning",
+      "message": "Package 'System.Security.Cryptography.Xml' 8.0.2 has a known high severity vulnerability, https://github.com/advisories/GHSA-w3x6-4m5h-cxqf",
+      "projectPath": "C:\\Sean Sta Ana\\PersonalProject\\Foliora\\backend\\tests\\Foliora.IntegrationTests\\Foliora.IntegrationTests.csproj",
+      "warningLevel": 1,
+      "filePath": "C:\\Sean Sta Ana\\PersonalProject\\Foliora\\backend\\tests\\Foliora.IntegrationTests\\Foliora.IntegrationTests.csproj",
+      "libraryId": "System.Security.Cryptography.Xml",
+      "targetGraphs": [
+        "net10.0"
+      ]
+    }
+  ]
 }

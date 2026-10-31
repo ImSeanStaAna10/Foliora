@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Foliora.Infrastructure")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8ad889cb7dde6be5a602ce9954fef0a682c24d53")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+75023219ea99610da200a397543b99bb1c30fe6e")]
 [assembly: System.Reflection.AssemblyProductAttribute("Foliora.Infrastructure")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Foliora.Infrastructure")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
