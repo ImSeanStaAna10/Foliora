@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Foliora.Api")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b9a97b03c303a9cd5606b5a754ea01c3b2f005c1")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2d8f747828518c8616e96d1623d2c90477651999")]
 [assembly: System.Reflection.AssemblyProductAttribute("Foliora.Api")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Foliora.Api")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

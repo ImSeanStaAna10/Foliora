@@ -68,3 +68,42 @@ jobs:
         push: true
         tags: ${{ steps.meta.outputs.tags }}
         labels: ${{ steps.meta.outputs.labels }}
+
+
+  deploy-dev:
+    name: DEV Deployment
+    needs: [backend-cd]
+    if: github.event_name == 'push' && github.ref == 'refs/heads/develop'
+    runs-on: self-hosted
+    environment: development
+
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v4
+
+    - name: Run DEV Deployment Script
+      shell: bash
+      run: |
+        chmod +x backend/deploy-dev.sh
+        IMAGE_TAG=develop ./backend/deploy-dev.sh
+      env:
+        DEV_DB_CONNECTION: ${{ secrets.DEV_DB_CONNECTION }}
+
+  deploy-prod:
+    name: PROD Deployment
+    needs: [backend-cd]
+    if: github.event_name == 'push' && github.ref == 'refs/heads/main'
+    runs-on: self-hosted
+    environment: production
+
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v4
+
+    - name: Run PROD Deployment Script
+      shell: bash
+      run: |
+        chmod +x backend/deploy-prod.sh
+        IMAGE_TAG=main ./backend/deploy-prod.sh
+      env:
+        PROD_SUPABASE_CONNECTION_STRING: ${{ secrets.PROD_SUPABASE_CONNECTION_STRING }}
