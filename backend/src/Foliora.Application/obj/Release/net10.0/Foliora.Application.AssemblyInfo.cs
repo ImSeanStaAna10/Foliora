@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Foliora.Application")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+75023219ea99610da200a397543b99bb1c30fe6e")]
 [assembly: System.Reflection.AssemblyProductAttribute("Foliora.Application")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Foliora.Application")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
