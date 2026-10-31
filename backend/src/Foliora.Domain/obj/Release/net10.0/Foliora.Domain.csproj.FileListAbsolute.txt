@@ -1,0 +1,12 @@
+C:\Sean Sta Ana\PersonalProject\Foliora\backend\src\Foliora.Domain\bin\Release\net10.0\Foliora.Domain.deps.json
+C:\Sean Sta Ana\PersonalProject\Foliora\backend\src\Foliora.Domain\bin\Release\net10.0\Foliora.Domain.dll
+C:\Sean Sta Ana\PersonalProject\Foliora\backend\src\Foliora.Domain\bin\Release\net10.0\Foliora.Domain.pdb
+C:\Sean Sta Ana\PersonalProject\Foliora\backend\src\Foliora.Domain\obj\Release\net10.0\Foliora.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Sean Sta Ana\PersonalProject\Foliora\backend\src\Foliora.Domain\obj\Release\net10.0\Foliora.Domain.AssemblyInfoInputs.cache
+C:\Sean Sta Ana\PersonalProject\Foliora\backend\src\Foliora.Domain\obj\Release\net10.0\Foliora.Domain.AssemblyInfo.cs
+C:\Sean Sta Ana\PersonalProject\Foliora\backend\src\Foliora.Domain\obj\Release\net10.0\Foliora.Domain.csproj.CoreCompileInputs.cache
+C:\Sean Sta Ana\PersonalProject\Foliora\backend\src\Foliora.Domain\obj\Release\net10.0\Foliora.Domain.sourcelink.json
+C:\Sean Sta Ana\PersonalProject\Foliora\backend\src\Foliora.Domain\obj\Release\net10.0\Foliora.Domain.dll
+C:\Sean Sta Ana\PersonalProject\Foliora\backend\src\Foliora.Domain\obj\Release\net10.0\refint\Foliora.Domain.dll
+C:\Sean Sta Ana\PersonalProject\Foliora\backend\src\Foliora.Domain\obj\Release\net10.0\Foliora.Domain.pdb
+C:\Sean Sta Ana\PersonalProject\Foliora\backend\src\Foliora.Domain\obj\Release\net10.0\ref\Foliora.Domain.dll
