@@ -82,6 +82,7 @@ jobs:
       uses: actions/checkout@v4
 
     - name: Run DEV Deployment Script
+      shell: bash
       run: |
         chmod +x backend/deploy-dev.sh
         IMAGE_TAG=develop ./backend/deploy-dev.sh
@@ -100,6 +101,7 @@ jobs:
       uses: actions/checkout@v4
 
     - name: Run PROD Deployment Script
+      shell: bash
       run: |
         chmod +x backend/deploy-prod.sh
         IMAGE_TAG=main ./backend/deploy-prod.sh
